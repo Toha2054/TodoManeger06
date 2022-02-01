@@ -15,7 +15,6 @@ import com.example.todomaneger06.R;
 import com.example.todomaneger06.databinding.FragmentSignUpBinding;
 
 
-
 public class SignUpFragment extends Fragment {
     private FragmentSignUpBinding binding;
     @Override
