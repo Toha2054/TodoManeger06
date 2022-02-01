@@ -36,5 +36,4 @@
         android:name="com.example.todomaneger06.fragment.auth.RegistrationFragment"
         android:label="fragment_registration"
         tools:layout="@layout/fragment_registration" />
-
 </navigation>
